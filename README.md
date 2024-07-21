@@ -10,7 +10,7 @@
  Facilidade de Uso: Permite a configuração de parâmetros adicionais para personalizar a pesquisa.
 
  # Instalação e Uso
- git clone https://github.com/DanielGoldoni/DorkTarget
+ git clone https://github.com/DanielGoldoni/DorkTarget &&
  cd DorkTarget
  
  pip install -r requirements.txt
