@@ -6,7 +6,9 @@
 
 # Funcionalidades
  Pesquisa Automática: Realiza consultas na API do Google Custom Search com base no dork fornecido.
+ 
  Armazenamento de Resultados: Salva os links dos resultados da pesquisa em um arquivo de texto para análise posterior.
+ 
  Facilidade de Uso: Permite a configuração de parâmetros adicionais para personalizar a pesquisa.
 
  # Instalação e Uso
